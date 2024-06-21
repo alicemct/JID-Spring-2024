@@ -1,0 +1,6 @@
+Alice Tran 06-21-2024 Summer Research Symposium for Justice in Data Program
+
+Question/Objective: Have certain parameters of water increased or decreased over the year?
+Methodologies: Collect data from Arlington water quality reports and/or USGS, use python and jupyter notebook to clean the data and create visualizations. Can use python from the start and selenium to automatically download the data.
+Data Source: USGS Water Quality Data, Arlington CCR Water Quality Annual Report
+Conclusions/Remaining gaps? ...
