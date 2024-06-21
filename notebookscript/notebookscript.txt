@@ -1,0 +1,1 @@
+This folder will contain the different Jupyter notebooks I wrote scripts in in order to do the data clean up and visualizations.
